@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name" translatable="false">Submisson 2</string>
+    <string name="Movie">Movie</string>
+    <string name="Tv">Television</string>
+    <string name="des">Description</string>
+    <string name="Nama">Title :</string>
+    <string name="change">Change Language</string>
+    <string-array name="data_descripsion">
+        <item>27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.</item>
+        <item>Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.</item>
+        <item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</item>
+        <item>A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.</item>
+        <item>The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when shes hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Greys new abilities to rule the galaxy.</item>
+        <item> Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her safely behind sacred glass and enlisting a priests holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens ten-year-old daughter, Judy, and her friends.</item>
+        <item>Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether thats Andy or Bonnie. But when Bonnie adds a reluctant new toy called Forky to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.</item>
+        <item> During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.</item>
+        <item>Follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species - thought to be mere myths - rise again, they all vie for supremacy, leaving humanitys very existence hanging in the balance.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcq8dVxeeOqHvvgcte707K0KVx5.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iYQTLGoy7QnjcUYRJy4YrAgGvp.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbGzEyESjANpOeD48aROlc3X7aa.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg</item>
+    </string-array>
+    <string-array name="data_namatv">
+        <item>Fear the Walking Dead (2015)</item>
+        <item> GREY ANATOMY (2018)</item>
+        <item>Family Guy (1999)</item>
+        <item>The Flash (2014) </item>
+        <item>Arrow (2012) </item>
+        <item>Supernatural (2005</item>
+        <item>The I-Land (2019)</item>
+        <item>Gotham (2014)</item>
+        <item>Law and Order: Special Victims Unit (1999)</item>
+        <item> Marvels Agents of S.H.I.E.L.D. (2013)</item>
+    </string-array>
+    <string-array name="data_descripsiontv">
+        <item>What did the world look like as it was transforming into the horrifying apocalypse depicted in The Walking Dead? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.</item>
+        <item>Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.</item>
+        <item>Sick, twisted, politically incorrect and Freakin Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only meta-human who was created in the wake of the accelerator explosion and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it wont be long before the world learns what Barry Allen has become The Flash.</item>
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their 67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.</item>
+        <item>Wiped clean of memories and thrown together, a group of strangers fight to survive harsh realities and the island that traps them.</item>
+        <item>Before there was Batman, there was GOTHAM.Everyone knows the name Commissioner Gordon. He is one of the crime worlds greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordons story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the worlds most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker.</item>
+        <item>In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.</item>
+        <item>Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.</item>
+    </string-array>
+    <string-array name="data_phototv">
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZMb3R3e5vqukPbeDMeyYGf2ZNG.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBGUL1UTUNmdRQT8gA1LUV4yg39.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Muev370hN3vdjGsC1ip1HcWqbT.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6t6r1VGQTTQecN4V0sZeqsmdU9g.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXiETfFK1BTLest5fhTLfDLRdL6.jpg</item>
+    </string-array>
+    <string-array name="data_nama">
+        <item>It Chapter Two (2019)</item>
+        <item> Incredibles 2 (2018)</item>
+        <item>Spider-Man: Far from Home (2019)</item>
+        <item>Aladdin (2019) </item>
+        <item>Dark Phoenix (2019) </item>
+        <item>Annabelle Comes Home (2019) </item>
+        <item>Toy Story 4 (2019) </item>
+        <item>Joker (2019)</item>
+        <item>Godzilla: King of the Monsters (2019)</item>
+        <item> Avengers: Endgame (2019)</item>
+    </string-array>
+</resources>
